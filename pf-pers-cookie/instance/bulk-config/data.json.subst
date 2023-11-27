@@ -217,12 +217,6 @@
             "resourceType": "/configStore"
         },
         {
-            "itemIds": ["cookie-format"],
-            "operationType": "DELETE",
-            "subResource": "persistent-session-cookie-config",
-            "resourceType": "/configStore"
-        },
-        {
             "operationType": "SAVE",
             "subResource": "response-header-admin-config",
             "items": [{
