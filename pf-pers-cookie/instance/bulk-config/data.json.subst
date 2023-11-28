@@ -217,6 +217,12 @@
             "resourceType": "/configStore"
         },
         {
+            "itemIds": ["cookie-format"],
+            "operationType": "DELETE",
+            "subResource": "persistent-session-cookie-config",
+            "resourceType": "/configStore"
+        },
+        {
             "resourceType": "/configStore",
             "operationType": "SAVE",
             "subResource": "persistent-session-cookie-config",
@@ -224,7 +230,7 @@
               {
                 "id": "cookie-max-age",
                 "type": "STRING",
-                "stringValue": "222222"
+                "stringValue": "333333"
               }
             ]
           },
